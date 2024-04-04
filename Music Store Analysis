@@ -43,8 +43,8 @@
 
 ⭐  Q8: Return all the track names that have a song length longer than the average song length.
 
-Q9: Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent
+⭐ Q9: Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent
 
-Q10: We want to find out the most popular music Genre for each country.
+⭐ Q10: We want to find out the most popular music Genre for each country.
 
-Q11: Write a query that determines the customer that has spent the most on music for each country.
+⭐ Q11: Write a query that determines the customer that has spent the most on music for each country.
